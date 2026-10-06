@@ -1,0 +1,5 @@
+[a, b, c, d]; costo=9
+bosque=9, componentes=1
+Escribe el código de origen
+Escribe el código de destino
+[a, b, c]; costo=5

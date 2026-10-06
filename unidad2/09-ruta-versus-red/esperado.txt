@@ -1,0 +1,2 @@
+ruta 0 a 2=3
+red mínima=4

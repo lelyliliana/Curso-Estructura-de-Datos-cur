@@ -1,0 +1,5 @@
+Escribe el código de origen
+Escribe el código de destino
+[a, b, c, d]; costo=9
+Consulta cancelada
+INICIO

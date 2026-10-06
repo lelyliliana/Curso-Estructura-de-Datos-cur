@@ -1,0 +1,3 @@
+[a, b, c, d]; costo=9
+costo de red mínima=9
+componentes=1

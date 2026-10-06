@@ -1,0 +1,2 @@
+aristas=3
+costo=6, componentes=3

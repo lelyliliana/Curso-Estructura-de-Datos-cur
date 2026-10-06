@@ -1,0 +1,2 @@
+Paso[vertice=1, costo=3]
+Paso[vertice=1, costo=10]

@@ -1,0 +1,4 @@
+diecisiete
+null
+tamaño=2
+cinco; carga=1.0

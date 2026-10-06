@@ -1,0 +1,2 @@
+norte: n=2, media=15.0, varianza=25.0
+sur: n=1, media=5.0, varianza=0.0

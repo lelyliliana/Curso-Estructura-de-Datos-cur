@@ -1,0 +1,2 @@
+umbral=3.5
+exactitud de prueba=1.0

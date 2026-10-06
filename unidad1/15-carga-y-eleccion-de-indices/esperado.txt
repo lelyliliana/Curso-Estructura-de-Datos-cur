@@ -1,0 +1,3 @@
+tamaño=19, capacidad=64
+nuevo
+v19

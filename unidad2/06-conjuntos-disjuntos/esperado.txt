@@ -1,0 +1,4 @@
+true
+false
+componentes=2
+true

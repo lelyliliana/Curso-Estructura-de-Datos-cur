@@ -1,0 +1,4 @@
+true
+false
+Ruta afectada por ciclo negativo
+0
