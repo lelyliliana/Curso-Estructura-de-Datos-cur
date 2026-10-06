@@ -1,0 +1,5 @@
+*.class
+out/
+__pycache__/
+*.pyc
+mapa.geojson
